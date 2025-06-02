@@ -29,4 +29,5 @@
 ---
 
 ##  👨‍💻메인으로 돌아가기
-[![MAIN](https://img.shields.io/badge/MAIN?style=plastic&logo=C&logoColor=white&labelColor=black)](https://github.com/skwjdgh/)
+[![MAIN](https://img.shields.io/badge/MAIN-181717?style=plastic&logo=github&logoColor=white)](https://github.com/skwjdgh/)
+
