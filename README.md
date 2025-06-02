@@ -10,7 +10,6 @@
 - 🐍 [Python 문서 소개](https://github.com/skwjdgh/Python101_study)
 - ☕ [Java 문서 소개](https://github.com/skwjdgh/JAVA101_study)
 - 💻 [C 언어 문서 소개](https://github.com/skwjdgh/C101_study)
-- ➕ [C++ 문서 소개]
 
 > 각 문서에서 해당 언어의 GitHub 저장소 및 주요 문서로 이동할 수 있습니다.
 
