@@ -19,12 +19,12 @@
 ## 📦 문서 구조 예시
 
 ```bash
-└── Back/ <https://github.com/skwjdgh/Back>
+└── Back/ 
     ├── README.md
-    ├── python/ <https://github.com/skwjdgh/Python101_study>
-    ├── java/ <https://github.com/skwjdgh/JAVA101_study>
-    ├── c/ <https://github.com/skwjdgh/C101_study>
-    └── sql/ <https://github.com/skwjdgh/Database101_study>
+    ├── python/ 
+    ├── java/ 
+    ├── c/ 
+    └── sql/ 
 ```
 ---
 
